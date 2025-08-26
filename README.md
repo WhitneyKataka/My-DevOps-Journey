@@ -2,7 +2,7 @@
 
 When I look back at my journey into tech, I can honestly say it hasn’t been easy. Coming from a background with no IT knowledge, every step has been a challenge — but also a breakthrough. Many times I felt stuck, but I kept pushing, knowing that perseverance is the only way forward.  
 
-That is why I feel deeply grateful to have been selected for the **FREE DevOps for Beginners Cohort with Pravin Mishra**. To spend **eight hours on a Saturday Zoom session** learning Git and GitHub under his guidance felt like a gift. Praveen is not only one of the best in the business, but also a rare kind of teacher: he doesn’t just explain concepts, he empowers you to **execute them with confidence**. His Udemy course is the foundation of our learning, and the way he breaks things down makes even complex topics feel achievable.  
+That is why I feel deeply grateful to have been selected for the **FREE DevOps for Beginners Cohort with Pravin Mishra**. To spend **eight hours on a Saturday Zoom session** learning Git and GitHub under his guidance felt like a gift. Mr Pravin is not only one of the best in the business, but also a rare kind of teacher: he doesn’t just explain concepts, he empowers you to **execute them with confidence**. His Udemy course is the foundation of our learning, and the way he breaks things down makes even complex topics feel achievable.  
 
 This week, our session focused on **Git and GitHub** — two tools that are absolutely essential for every developer and DevOps engineer.  
 
@@ -84,6 +84,8 @@ During this session, I learned **step by step** how to get started with Git and 
 Git with VS Code
 VS Code integrates Git commands directly into the editor.
 
+Built-in Source Control panel to manage commits, branches, and merges.
+
 GitHub extensions in VS Code make collaboration seamless.
 
 Why Git & GitHub Matter in DevOps
@@ -102,10 +104,11 @@ In short: without Git and GitHub, DevOps would not function the way it does toda
 Reflection
 This week’s session was packed with knowledge. From installing Git, configuring it, learning commands, understanding GitHub, authentication, and even VS Code integration — every moment felt like a step forward in becoming a better DevOps practitioner.
 
-I’m humbled and grateful for the opportunity to learn from Pravin Mishra. His patience, clarity, and gift for teaching inspire me to push harder, knowing that growth is possible with the right guidance.
+I’m humbled and grateful for the opportunity to learn from Pravin Mishra and other co-mentors, the support we get in this program is amazing. His patience, clarity, and gift for teaching inspire me to push harder, knowing that growth is possible with the right guidance.
 
-The fact that there is even a full session recording available on YouTube shows how much value he gives to his students.
+The fact that there is even a full session recording available on YouTube https://lnkd.in/gfv6RJRa shows how much value he gives to his students.
 
 This is only Week 2, and I’m already seeing the bigger picture of how tools like Git and GitHub shape the future of software development and DevOps.
 
 I’m excited to continue this journey, and I can’t wait to discover what we’ll be diving into next week.
+
