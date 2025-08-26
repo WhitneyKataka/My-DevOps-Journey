@@ -81,43 +81,43 @@ Creating a Repo →
 
  
   
-```bash
+bash
 git init
 
 3. 
 
 Git Commands I Practiced
 
-```bash
+bash
 
 # Initialize Repo
 
-```bash
+bash
 git init  
 
 
 
 # Check Repo Status
-```bash
+bash
 git status  
 
 
 
 # Configure Identity
-```bash
+bash
 git config --global user.name "Your Name"
 git config --global user.email "your@email.com"  
 
 
 
 # Add File to Staging
-```bash
+bash
 git add filename  
 
 
 
 # Commit Changes
-```bash
+bash
 git commit -m "message"  
 
 
