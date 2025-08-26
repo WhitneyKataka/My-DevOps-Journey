@@ -79,63 +79,63 @@ Remote Repo → On GitHub
 Bare Repo → For collaboration, without working directory
 Creating a Repo →
 
-- On **Linux** →  
-  ```bash
-
+ 
+  
+```bash
 git init
 
 3. 
 
 Git Commands I Practiced
 
-Bash
+```bash
 
 # Initialize Repo
 
+```bash
 git init  
 
 
 
 # Check Repo Status
-
+```bash
 git status  
 
 
 
 # Configure Identity
-
+```bash
 git config --global user.name "Your Name"
-
 git config --global user.email "your@email.com"  
 
 
 
 # Add File to Staging
-
+```bash
 git add filename  
 
 
 
 # Commit Changes
-
+```bash
 git commit -m "message"  
 
 
 
 # Push to GitHub
-
+```bash
 git push origin main  
 
 
 
 # Clone Repo
-
+```bash
 git clone <URL>  
 
 
 
 # Check History
-
+```bash
 git log
 
 4. 
