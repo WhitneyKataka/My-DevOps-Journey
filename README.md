@@ -1,4 +1,4 @@
-# FREE DevOps for Beginners Cohort with Praveen Mishra – Week 2: Learning Git & GitHub  
+# FREE DevOps for Beginners Cohort with Pravin Mishra – Week 2: Learning Git & GitHub  
 
 When I look back at my journey into tech, I can honestly say it hasn’t been easy. Coming from a background with no IT knowledge, every step has been a challenge — but also a breakthrough. Many times I felt stuck, but I kept pushing, knowing that perseverance is the only way forward.  
 
