@@ -79,7 +79,8 @@ Remote Repo → On GitHub
 Bare Repo → For collaboration, without working directory
 Creating a Repo →
 
-Bash
+- On **Linux** →  
+  ```bash
 
 git init
 
