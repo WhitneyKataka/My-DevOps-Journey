@@ -81,34 +81,46 @@ During this session, I learned **step by step** how to get started with Git and 
   ```bash
   touch .gitignore
 
-Git with VS Code
-VS Code integrates Git commands directly into the editor.
+## Git with VS Code  
 
-Built-in Source Control panel to manage commits, branches, and merges.
+Working with Git directly in **Visual Studio Code (VS Code)** makes version control even easier:  
 
-GitHub extensions in VS Code make collaboration seamless.
+- VS Code has a built-in **Source Control panel** for staging, committing, and pushing changes.  
+- You can switch **branches** or create new ones without leaving the editor.  
+- Extensions like **GitHub Pull Requests and Issues** allow you to manage collaboration directly inside VS Code.  
 
-Why Git & GitHub Matter in DevOps
-Version Control → Ensures no work is lost.
+---
 
-Branching & Merging → Enables experimentation without breaking main projects.
+## Why Git & GitHub Matter in DevOps  
 
-Collaboration → Teams can work together across the world.
+Git and GitHub are not just tools for developers — they are at the heart of DevOps practices:  
 
-Code Review → Improves quality and learning.
+- **Version Control** → No work is ever lost, and every change is tracked.  
+- **Branching & Merging** → Experiment safely without breaking the main project.  
+- **Collaboration** → Enables teamwork across the world, in real time.  
+- **Code Reviews** → Encourage quality and shared learning.  
+- **CI/CD Integration** → GitHub repositories connect directly with pipelines, deployments, and automation.  
 
-Integration in DevOps → GitHub connects directly with CI/CD pipelines, deployments, and automation.
+Without Git and GitHub, modern DevOps workflows would simply not exist.  
 
-In short: without Git and GitHub, DevOps would not function the way it does today.
+---
 
-Reflection
+## Reflection  
+
+This week’s session was a turning point for me.  
+
+I went from struggling to understand Git to actually **using commands, pushing code, and connecting with GitHub**. I learned not only the technical aspects but also the **why** — why version control matters, why GitHub is essential for collaboration, and how these tools fit into the bigger DevOps journey. 
 This week’s session was packed with knowledge. From installing Git, configuring it, learning commands, understanding GitHub, authentication, and even VS Code integration — every moment felt like a step forward in becoming a better DevOps practitioner.
 
-I’m humbled and grateful for the opportunity to learn from Pravin Mishra and other co-mentors, the support we get in this program is amazing. His patience, clarity, and gift for teaching inspire me to push harder, knowing that growth is possible with the right guidance.
+I’m humbled and grateful for the opportunity to learn from Praveen Mishra and our co-mentors, the support and commitment they show us is very humbling. His patience, clarity, and gift for teaching inspire me to push harder, knowing that growth is possible with the right guidance.
 
 The fact that there is even a full session recording available on YouTube https://lnkd.in/gfv6RJRa shows how much value he gives to his students.
 
-This is only Week 2, and I’m already seeing the bigger picture of how tools like Git and GitHub shape the future of software development and DevOps.
+
+I understand see the bigger picture of how tools like Git and GitHub shape the future of software development and DevOps.
 
 I’m excited to continue this journey, and I can’t wait to discover what we’ll be diving into next week.
 
+I feel grateful for this opportunity to learn under **Pravin Mishra**, whose gift for teaching makes complex ideas simple and actionable. He doesn’t just teach concepts he gives you the confidence to execute them.  
+
+This is only **Week 2** of the cohort, and I’m already excited about what’s coming next. If Git and GitHub were this powerful to learn, I can’t wait to see what we’ll discover in Week 3.  
